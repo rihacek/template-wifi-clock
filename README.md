@@ -1,4 +1,4 @@
-##template-wall-clock
+## template-wall-clock
 
 This template provides a lightweight foundation for future work. Many of my projects rely on wifi connections and time to provide time-series data to a central server, so consolidating those actions here is helpful.
 
@@ -7,9 +7,9 @@ This template provides a lightweight foundation for future work. Many of my proj
 - wifi enabled
 - time pulled from NTP
 
-###Note
+### Note
 I've included some info on configuring the ESP8266 WiFi chip in the comments. You can reset what's stored on the chip by changing board settings.
 
-###Libraries:
+### Libraries
 - WifiManager - https://github.com/tzapu/WiFiManager
 - NTPClient - https://github.com/arduino-libraries/NTPClient
